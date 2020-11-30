@@ -1,2 +1,2 @@
-# bullets-nad-walls---c21-project-by-lakshmi
-bullets and walls
+# p5.play-boilerplate
+Boiler plate for p5.play
